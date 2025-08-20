@@ -1,4 +1,4 @@
-## Hidden Markov Models Assignment: Power Consumption (Jan–Feb 2017)
+# Power Consumption (Jan–Feb 2017)
 
 ### Data
 - File: `z1_hr_mean.csv`
